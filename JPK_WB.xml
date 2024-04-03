@@ -1,0 +1,105 @@
+﻿<tns:JPK xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/ schema.xsd">
+  <tns:Naglowek xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:KodFormularza wersjaSchemy="1-0" kodSystemowy="JPK_WB (3)">JPK_WB</tns:KodFormularza>
+    <tns:WariantFormularza>3</tns:WariantFormularza>
+    <tns:CelZlozenia>1</tns:CelZlozenia>
+    <tns:DataWytworzeniaJPK>2024-04-04T00:05:09.317</tns:DataWytworzeniaJPK>
+    <tns:DataOd>2024-03-01</tns:DataOd>
+    <tns:DataDo>2024-03-31</tns:DataDo>
+    <tns:DomyslnyKodWaluty>PLN</tns:DomyslnyKodWaluty>
+    <tns:KodUrzedu>0001</tns:KodUrzedu>
+  </tns:Naglowek>
+  <tns:Podmiot1 xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:IdentyfikatorPodmiotu xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+      <etd:NIP>0000000001</etd:NIP>
+      <etd:PelnaNazwa>Firmowa Firma sp. z o.o.</etd:PelnaNazwa>
+    </tns:IdentyfikatorPodmiotu>
+    <tns:AdresPodmiotu xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+      <etd:KodKraju>PL</etd:KodKraju>
+      <etd:Wojewodztwo>Mazowieckie</etd:Wojewodztwo>
+      <etd:Powiat>Warszawa</etd:Powiat>
+      <etd:Gmina>Warszawa</etd:Gmina>
+      <etd:Ulica>Firmowa</etd:Ulica>
+      <etd:NrDomu>1</etd:NrDomu>
+      <etd:NrLokalu>125</etd:NrLokalu>
+      <etd:Miejscowosc>Warszawa</etd:Miejscowosc>
+      <etd:KodPocztowy>00-001</etd:KodPocztowy>
+    </tns:AdresPodmiotu>
+  </tns:Podmiot1>
+  <tns:NumerRachunku xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerRachunku>12345678901234567890123456</tns:NumerRachunku>
+  </tns:NumerRachunku>
+  <tns:Salda xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:SaldoPoczatkowe>10000.0000</tns:SaldoPoczatkowe>
+    <tns:SaldoKoncowe>5620.0000</tns:SaldoKoncowe>
+  </tns:Salda>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX1</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-04</tns:DataOperacji>
+    <tns:NazwaPodmiotu>PW</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Gruszki</tns:OpisOperacji>
+    <tns:KwotaOperacji>100.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123401</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX2</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-09</tns:DataOperacji>
+    <tns:NazwaPodmiotu>SGH</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Jablka</tns:OpisOperacji>
+    <tns:KwotaOperacji>50.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123402</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX3</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-14</tns:DataOperacji>
+    <tns:NazwaPodmiotu>UW</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Banany</tns:OpisOperacji>
+    <tns:KwotaOperacji>30.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123403</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX4</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-19</tns:DataOperacji>
+    <tns:NazwaPodmiotu>AGH</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Ananasy</tns:OpisOperacji>
+    <tns:KwotaOperacji>1000.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123404</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX5</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-24</tns:DataOperacji>
+    <tns:NazwaPodmiotu>UMB</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Truskawki</tns:OpisOperacji>
+    <tns:KwotaOperacji>1500.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123405</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX6</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-26</tns:DataOperacji>
+    <tns:NazwaPodmiotu>WUM</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Jagody</tns:OpisOperacji>
+    <tns:KwotaOperacji>300.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123406</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX6</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-27</tns:DataOperacji>
+    <tns:NazwaPodmiotu>WUM</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Marchew</tns:OpisOperacji>
+    <tns:KwotaOperacji>500.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123406</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagWiersz xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:NumerWiersza>XX6</tns:NumerWiersza>
+    <tns:DataOperacji>2024-03-28</tns:DataOperacji>
+    <tns:NazwaPodmiotu>WUM</tns:NazwaPodmiotu>
+    <tns:OpisOperacji>Ziemniaki</tns:OpisOperacji>
+    <tns:KwotaOperacji>900.00</tns:KwotaOperacji>
+    <tns:RachunekBankowyKlienta>12345678901234567890123406</tns:RachunekBankowyKlienta>
+  </tns:WyciagWiersz>
+  <tns:WyciagCtrl xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">
+    <tns:LiczbaWierszy xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">8</tns:LiczbaWierszy>
+    <tns:SumaObciazen xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">4380.00</tns:SumaObciazen>
+    <tns:SumaUznan xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/">0</tns:SumaUznan>
+  </tns:WyciagCtrl>
+</tns:JPK>
